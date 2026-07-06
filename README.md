@@ -1,167 +1,136 @@
 <div align="center">
 
-# Alborda AI
+# 🌍 Alborda AI
 
-### Démocratiser l'intelligence artificielle pour les langues sous-représentées du MENA
-### Democratizing artificial intelligence for underrepresented languages across MENA
+### L'intelligence artificielle qui parle enfin votre langue
 
 [![Website](https://img.shields.io/badge/website-alborda.ai-blue)](https://alborda.ai)
 [![Contact](https://img.shields.io/badge/contact-contact%40alborda.ai-lightgrey)](mailto:contact@alborda.ai)
 [![License](https://img.shields.io/badge/framework%20license-Apache%202.0-green)](#)
-
-🇫🇷 [Français](#-à-propos) &nbsp;|&nbsp; 🇬🇧 [English](#-about)
+[![Made in Mauritania](https://img.shields.io/badge/made%20in-Mauritanie-orange)](#)
 
 </div>
 
 ---
 
-# 🇫🇷 Version française
+## ✨ Notre conviction
 
-## 🌍 À propos
+L'intelligence artificielle a redéfini la manière dont des centaines de millions de personnes travaillent, apprennent et communiquent. Mais cette révolution s'est construite presque exclusivement autour d'une poignée de langues dominantes — laissant de côté des dizaines de millions de locuteurs de langues et dialectes tout aussi riches, tout aussi vivants, mais invisibles aux yeux des grands modèles internationaux.
 
-**Alborda AI** est une startup mauritanienne (SARL, fondée en 2024) dont la mission est de démocratiser l'accès à l'intelligence artificielle pour les langues et populations sous-représentées à travers le Moyen-Orient et l'Afrique du Nord (MENA).
+Nous refusons l'idée qu'accéder à une IA de pointe nécessite d'abord de parler une autre langue que la sienne.
+
+**Alborda AI** est née de cette conviction simple : **une technologie n'est réellement universelle que lorsqu'elle s'adapte à l'humain, et non l'inverse.**
+
+---
+
+## 🎯 Notre mission
+
+> *Démocratiser l'intelligence artificielle pour les langues et populations sous-représentées à travers le Moyen-Orient et l'Afrique du Nord (MENA).*
 
 Nous développons des modèles de langue et les personnalisons pour une large gamme de tâches, afin que des millions de personnes puissent accéder à une IA avancée **nativement dans leur langue — pas une langue empruntée.**
 
-Notre premier terrain d'action : le **hassaniya**, dialecte arabe parlé en Mauritanie et dans une partie du Sahel, aujourd'hui non pris en charge par les systèmes d'IA internationaux majeurs.
+Notre point de départ : le **hassaniya**, dialecte arabe parlé par plusieurs millions de personnes en Mauritanie et dans une partie du Sahel — une langue vivante, riche d'une tradition orale et poétique ancienne, mais totalement absente des systèmes d'IA internationaux à ce jour.
+
+Ce que nous construisons pour le hassaniya n'est pas une exception. C'est une méthode, un prototype de ce que nous voulons répliquer pour d'autres langues sous-représentées de la région MENA.
 
 ---
 
-## 🧠 Notre technologie fondatrice — Dimeyz
+## 🧭 Nos valeurs
 
-**Dimeyz** est un modèle de langue (LLM) entraîné nativement sur un corpus hassaniya propriétaire. C'est le socle technologique sur lequel repose l'ensemble de nos produits — chaque agent ci-dessous s'appuie sur Dimeyz pour comprendre et générer du texte et de la voix en hassaniya.
+### 🗣️ La langue n'est pas un détail, c'est une porte d'entrée
+Chaque personne mérite d'interagir avec la technologie dans la langue où elle pense, où elle rêve, où elle exprime le mieux ce qu'elle ressent. Pour nous, le support linguistique n'est pas une fonctionnalité secondaire — c'est le cœur du problème que nous résolvons.
 
----
+### 🔒 La souveraineté des données n'est pas négociable
+Les langues et les cultures que nous servons ont souvent été historiquement extraites, exploitées ou ignorées par des acteurs extérieurs. Nous faisons le choix inverse : aucune donnée sensible ne transite par des infrastructures tierces avec rétention, aucun corpus n'est partagé sans contrôle. La communauté dont nous nous inspirons doit rester propriétaire de sa propre voix numérique.
 
-## 🚀 Nos agents & produits
+### 🌱 Construire une fondation, pas un gadget
+Nous ne cherchons pas à produire une démonstration impressionnante et éphémère. Nous construisons une infrastructure linguistique durable — un corpus, un modèle, une méthode — sur laquelle une génération entière de produits pourra s'appuyer, bien au-delà de nos propres applications.
 
-### 🤖 SIDI — Agent de support client automatisé
-Agent conversationnel B2B multicanal (WhatsApp, réseaux sociaux) permettant aux entreprises d'automatiser leur relation client directement en hassaniya. SIDI traite les demandes courantes, oriente les clients vers les bonnes ressources, et libère les équipes humaines pour les cas complexes nécessitant une intervention personnalisée.
-- **Cible** : entreprises et institutions ayant une base clients hassaniyaphone
-- **Canaux** : WhatsApp, réseaux sociaux
-- **Valeur** : disponibilité 24/7, réduction du temps de réponse, support natif sans barrière linguistique
+### 🤝 L'IA augmente l'humain, elle ne le remplace pas
+Dans chacun de nos produits, la technologie a pour rôle de simplifier, d'orienter, de faire gagner du temps — jamais de se substituer au jugement humain, en particulier lorsque les situations sont sensibles ou vulnérables.
 
-### 📋 MOUNA — Assistant exécutif intelligent
-Assistant IA conçu pour les cadres et dirigeants, prenant en charge la gestion des emails, de l'agenda, des documents, et la transcription de réunions. MOUNA vise à réduire la charge administrative quotidienne en rendant ces outils accessibles nativement en hassaniya.
-- **Cible** : cadres, dirigeants, professionnels
-- **Fonctionnalités** : gestion email, agenda, documents, transcription de réunions
-- **Valeur** : gain de temps, accessibilité linguistique pour des tâches de productivité
-
-### 🎓 SOULEYMAN — Tuteur IA pour lycéens
-Outil pédagogique conversationnel destiné aux élèves préparant le Baccalauréat, offrant un accompagnement scolaire personnalisé directement en hassaniya — pour lever la barrière linguistique qui freine souvent la compréhension des contenus enseignés en français ou en arabe standard.
-- **Cible** : lycéens niveau Bac
-- **Valeur** : accompagnement pédagogique personnalisé, accessible dans la langue maternelle
-
-### 💬 Dimeyz Chat — Assistant conversationnel grand public
-Application conversationnelle destinée au grand public, permettant à tout utilisateur hassaniyaphone d'interagir avec une IA générative dans sa langue maternelle, pour des besoins du quotidien (information, assistance, apprentissage).
-- **Cible** : grand public mauritanien et hassaniyaphone
-- **Valeur** : premier assistant conversationnel généraliste nativement en hassaniya
+### 🌍 Commencer localement pour penser régionalement
+Le hassaniya est notre point de départ, pas notre limite. Chaque brique technique que nous construisons — pipeline de collecte de corpus, méthode de fine-tuning pour langues à faibles ressources, architecture d'agents conversationnels — est pensée pour être reproductible sur d'autres langues sous-représentées du monde arabe et au-delà.
 
 ---
 
-## 🔓 Notre approche open source
+## 🔮 Notre vision
 
-| Composant | Licence |
+D'ici quelques années, nous voulons qu'un lycéen dans une région reculée de Mauritanie puisse apprendre avec un tuteur qui lui parle dans sa langue maternelle. Qu'une entreprise mauritanienne puisse servir sa clientèle sans jamais lui imposer de changer de langue. Qu'une institution publique puisse rendre ses services accessibles à des citoyens qui, jusqu'ici, se sentaient exclus des outils numériques modernes.
+
+Nous voulons faire du hassaniya la preuve qu'une langue "à faibles ressources" n'est pas condamnée à rester en marge de la révolution de l'IA — et ouvrir la voie à d'autres langues du MENA qui méritent la même attention.
+
+---
+
+## 🧠 Dimeyz — notre technologie fondatrice
+
+**Dimeyz** est un modèle de langue (LLM) entraîné nativement sur un corpus hassaniya propriétaire, construit patiemment à travers un travail rigoureux de collecte, de nettoyage et de validation linguistique.
+
+Dimeyz n'est pas une traduction ou une adaptation superficielle d'un modèle existant : c'est un modèle pensé et façonné pour comprendre les subtilités, les expressions et la structure propre au hassaniya. Il constitue le socle sur lequel s'appuie l'ensemble de nos produits.
+
+---
+
+## 🚀 Nos solutions
+
+### 🤖 SIDI — L'agent qui répond à vos clients, dans leur langue
+Agent conversationnel B2B multicanal (WhatsApp, réseaux sociaux) qui permet aux entreprises d'automatiser leur relation client directement en hassaniya. SIDI traite les demandes courantes, oriente vers les bonnes ressources, et libère les équipes humaines pour se concentrer sur les cas qui nécessitent une véritable attention humaine.
+
+> *Parce qu'un client bien accueilli dans sa langue est un client qui revient.*
+
+### 📋 MOUNA — L'assistant qui vous rend du temps
+Assistant exécutif intelligent pensé pour les cadres et dirigeants : gestion des emails, de l'agenda, des documents, transcription de réunions. MOUNA absorbe la charge administrative du quotidien, avec une interaction naturelle en hassaniya.
+
+> *Parce que le temps gagné sur l'administratif est du temps rendu à ce qui compte vraiment.*
+
+### 🎓 SOULEYMAN — Le tuteur qui enseigne dans votre langue
+Outil pédagogique conversationnel destiné aux lycéens préparant le Baccalauréat, offrant un accompagnement scolaire personnalisé directement en hassaniya — pour que la langue ne soit jamais un obstacle à la compréhension.
+
+> *Parce que comprendre un cours ne devrait jamais dépendre de la langue dans laquelle il est enseigné.*
+
+### 💬 Dimeyz Chat — L'IA conversationnelle pour tous
+Application grand public permettant à tout locuteur hassaniyaphone de dialoguer avec une intelligence artificielle générative dans sa langue maternelle, pour ses besoins du quotidien — s'informer, apprendre, être accompagné.
+
+> *Parce que l'accès à l'IA ne devrait jamais être un privilège linguistique.*
+
+---
+
+## 🔓 Notre approche de la propriété intellectuelle
+
+| Composant | Approche |
 |---|---|
-| Framework technique Alborda | Apache 2.0 |
-| Modèle Dimeyz | Propriétaire |
-| Corpus hassaniya | Strictement fermé |
+| **Framework technique Alborda** | Open source, licence Apache 2.0 — nous croyons à la mutualisation des outils |
+| **Modèle Dimeyz** | Propriétaire — fruit d'un travail d'ingénierie et d'investissement long terme |
+| **Corpus hassaniya** | Strictement fermé — notre actif le plus précieux, protégé comme tel |
 
-Le corpus hassaniya constitue notre principal actif défensif et reflète notre engagement en matière de souveraineté des données : aucune donnée collectée n'est partagée ou utilisée par des tiers en dehors de notre infrastructure sécurisée.
-
----
-
-## 🛠️ Domaines d'expertise
-
-- Modèles de langue (LLM) — pré-entraînement et fine-tuning pour langues à faibles ressources
-- Reconnaissance vocale et synthèse vocale pour dialectes non standardisés
-- Traitement automatique du langage naturel (NLP) et filtrage dialectal
-- Agents conversationnels multicanaux (WhatsApp, web)
-- Infrastructure cloud sécurisée et souveraine
+Cet équilibre reflète notre philosophie : ouvrir ce qui fait avancer l'écosystème collectivement, protéger ce qui garantit la pérennité et l'indépendance de notre mission.
 
 ---
 
-## 🤝 Nous contacter
+## 🛠️ Nos domaines d'expertise
+
+- **Modèles de langue (LLM)** — pré-entraînement et fine-tuning pour langues à faibles ressources
+- **Reconnaissance et synthèse vocale** — adaptées aux dialectes non standardisés
+- **Traitement automatique du langage naturel (NLP)** — filtrage dialectal, normalisation linguistique
+- **Agents conversationnels multicanaux** — WhatsApp, web, et au-delà
+- **Infrastructure cloud sécurisée et souveraine** — pensée pour protéger les données sensibles de bout en bout
+
+---
+
+## 🌱 Notre ambition à long terme
+
+Ce que nous construisons aujourd'hui pour le hassaniya n'est qu'un premier chapitre. Notre ambition est de devenir un acteur de référence dans l'IA pour les langues sous-représentées de toute la région MENA — en prouvant, langue après langue, qu'aucune communauté ne devrait être laissée de côté par la révolution de l'intelligence artificielle.
+
+---
+
+## 🤝 Rejoignez-nous ou contactez-nous
 
 - 🌐 Site web : [alborda.ai](https://alborda.ai)
 - ✉️ Email : [contact@alborda.ai](mailto:contact@alborda.ai)
 
----
----
-
-# 🇬🇧 English version
-
-## 🌍 About
-
-**Alborda AI** is a Mauritanian startup (SARL, founded in 2024) on a mission to democratize access to artificial intelligence for underrepresented languages and populations across the Middle East and North Africa (MENA).
-
-We build language models and personalize them for a wide range of tasks, so that millions of people can access advanced AI **natively in their own language — not a borrowed one.**
-
-Our first focus: **Hassaniya**, an Arabic dialect spoken in Mauritania and parts of the Sahel, currently unsupported by major international AI systems.
-
----
-
-## 🧠 Our foundational technology — Dimeyz
-
-**Dimeyz** is a large language model (LLM) natively trained on a proprietary Hassaniya corpus. It is the technological foundation underlying all of our products — every agent below relies on Dimeyz to understand and generate text and speech in Hassaniya.
-
----
-
-## 🚀 Our agents & products
-
-### 🤖 SIDI — Automated Customer Support Agent
-A multichannel B2B conversational agent (WhatsApp, social media) enabling businesses to automate customer relations natively in Hassaniya. SIDI handles common requests, routes customers to the right resources, and frees up human teams for complex cases requiring personalized attention.
-- **Target**: businesses and institutions with a Hassaniya-speaking customer base
-- **Channels**: WhatsApp, social media
-- **Value**: 24/7 availability, reduced response times, native support with no language barrier
-
-### 📋 MOUNA — Intelligent Executive Assistant
-An AI assistant designed for executives and managers, handling email management, calendar scheduling, documents, and meeting transcription. MOUNA aims to reduce daily administrative workload by making these tools natively accessible in Hassaniya.
-- **Target**: executives, managers, professionals
-- **Features**: email management, calendar, documents, meeting transcription
-- **Value**: time savings, linguistic accessibility for productivity tasks
-
-### 🎓 SOULEYMAN — AI Tutor for High School Students
-A conversational educational tool for students preparing for the Baccalauréat, offering personalized academic support directly in Hassaniya — removing the language barrier that often hinders comprehension of content taught in French or Modern Standard Arabic.
-- **Target**: high school students (Bac level)
-- **Value**: personalized academic support, accessible in the native language
-
-### 💬 Dimeyz Chat — General-Public Conversational Assistant
-A conversational application for the general public, allowing any Hassaniya speaker to interact with generative AI in their native language for everyday needs (information, assistance, learning).
-- **Target**: the general Mauritanian and Hassaniya-speaking public
-- **Value**: the first general-purpose conversational assistant natively built for Hassaniya
-
----
-
-## 🔓 Our open-source approach
-
-| Component | License |
-|---|---|
-| Alborda technical framework | Apache 2.0 |
-| Dimeyz model | Proprietary |
-| Hassaniya corpus | Strictly closed |
-
-The Hassaniya corpus is our core defensible asset and reflects our commitment to data sovereignty: no collected data is shared with or used by third parties outside our secure infrastructure.
-
----
-
-## 🛠️ Areas of expertise
-
-- Language models (LLM) — pretraining and fine-tuning for low-resource languages
-- Speech recognition and speech synthesis for non-standardized dialects
-- Natural language processing (NLP) and dialect filtering
-- Multichannel conversational agents (WhatsApp, web)
-- Secure and sovereign cloud infrastructure
-
----
-
-## 🤝 Contact us
-
-- 🌐 Website: [alborda.ai](https://alborda.ai)
-- ✉️ Email: [contact@alborda.ai](mailto:contact@alborda.ai)
+Nous sommes toujours ouverts aux discussions avec des partenaires, chercheurs, institutions ou talents qui partagent notre vision d'une IA véritablement inclusive.
 
 ---
 
 <div align="center">
-<sub>© 2024–2026 Alborda AI — Mauritania</sub>
+<sub>© 2024–2026 Alborda AI — Fondée en Mauritanie, pensée pour le MENA</sub>
 </div>
